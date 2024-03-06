@@ -1,1 +1,1 @@
-#computational-physics for undergraduates
+computational-physics for undergraduates
