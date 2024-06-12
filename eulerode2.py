@@ -1,3 +1,4 @@
+
 from math import exp, sin, cos
 #f3 = open("data2.dat", "w")			*instead of creating lists, if file is required to be created for plotting
 def f(x,y):
