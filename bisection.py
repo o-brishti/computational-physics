@@ -1,5 +1,4 @@
 '''
-Date: 11.12.23
 Root Finding by Bisection Method
 '''
 
