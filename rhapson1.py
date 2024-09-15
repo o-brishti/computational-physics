@@ -1,5 +1,4 @@
 '''
-11.12.23
 Root Finding by Newton Rhapson
 '''
 
